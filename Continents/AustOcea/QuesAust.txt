@@ -1,0 +1,10 @@
+10
+Is the first letter of this Country a vowel?
+Is this Country landlocked?
+Was the movie 'Lord of the Rings' filmed here?
+Does this Country's name end with a vowel?
+Does the Country have two or more seaparate words in it's name?
+Does the name of the Country end with the letter A?
+Does the Country's name consists of 6 or less letters?
+Is this the largest Country in this Continent?
+Does this Country border with the Ocean?

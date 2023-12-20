@@ -1,0 +1,18 @@
+18
+Is the first letter of this Country a vowel?
+Is the Country landlocked?
+Does the river Elbe flow through this Country?
+Is this Countries land below sea level?
+Is the Eiffel Tower located in this Country?
+Is the Buckingham Palace located in this Country?
+Is the Great Colosseum located here?
+Does the Country have a Monarchy System?
+Is this the smallest Country in Europe?
+Is it one of the most densly populated Country?
+Is Mount Elbrus located in this Country?
+Is the Leaning tower of Pisa located here?
+Does the Countries name have 2 separate words in it?
+Is the football player Ronaldo from this Country?
+Is this Country in the nation of United Kingdom?
+Does the Country's name consists of 6 or less letters?
+Does the country's name contain the letters 'A-N-D' consecutively?

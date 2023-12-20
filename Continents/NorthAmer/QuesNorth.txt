@@ -1,0 +1,11 @@
+11
+Is the first letter of this Country a vowel?
+Does this Country's name end with a vowel?
+Does the Country have two seaparate words in it's name?
+Does the name of the Country end with the letter A?
+Does the Country's name consists of 6 or less letters?
+Is this the largest Country in this Continent?
+Is the primary Language Spanish in this Country?
+Does this Country border with the Ocean?
+Does it have a border with Niagara Falls?
+Does the country's name contain the letters 'A-N-D' consecutively?

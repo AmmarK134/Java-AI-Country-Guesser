@@ -1,0 +1,17 @@
+16
+Is the first letter of the Country a vowel?
+Is it Asia's largest Country?
+Is this country one of the most densly populated countries?
+Is the world's biggest mountain located in this Country?
+Is the Country located in South Asia?
+Is the Country landlocked?
+Is the tallest building in the world located here?
+Is the population of this Country mostly Muslim?
+Is the Taj Mahal located here?
+Does this Country have a shoreline connected to the ocean?
+Is this Country known for it's famous Anime creations?
+Is it famous for it's Great Wall?
+Does this Country's name end with a vowel?
+Does the Country have two separate words in it's name?
+Does the name of the Country end with the letter A?
+Does the Country's name consists of 6 or less letters?

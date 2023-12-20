@@ -1,0 +1,13 @@
+13
+Is the first letter of this Country a vowel?
+Does this Country's name end with a vowel?
+Does the Country have two seaparate words in it's name?
+Does the name of the Country end with the letters 'a - i'?
+Does the Country's name consists of 6 or less letters?
+Is this the largest Country in this Continent?
+Does the country's name contain the letters 'A-N-D' consecutively?
+Is the Big Statue of the Christ located here?
+Is the football player Messi from this Country?
+Is the football player Neymar Jr. from this Country?
+Is the primary lnguage spoken in this Country Spanish?
+Is the Country landlocked?
